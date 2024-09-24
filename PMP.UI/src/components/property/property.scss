@@ -1,0 +1,23 @@
+.property-status{
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    background-color: rgb(10, 128, 31);
+    margin-right: 4px;
+}
+
+.card-link
+{
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.property-price{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+}

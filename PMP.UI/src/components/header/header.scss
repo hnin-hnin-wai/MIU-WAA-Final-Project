@@ -1,0 +1,27 @@
+h1{
+    font-size: 2em;
+}
+.header{
+    display: flex;
+    //background-color: aqua;
+    align-items: center;
+    justify-content: flex-end;
+    
+
+}
+.header ul{ flex-grow: 1;}
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 30px;
+    font-weight: bold;
+}
+.right-div{
+    margin-right: 20px;
+    
+}
+
+.right-div div{
+    display: inline;
+    margin-right: 20px;
+}

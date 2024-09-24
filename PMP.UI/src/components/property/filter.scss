@@ -1,0 +1,19 @@
+.price-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filter-content {
+    height: auto !important;
+}
+.filter-header{
+    display: flex;
+    align-items: center;
+    span{
+        flex: 1;
+    }
+    button{
+        margin-bottom: 5px;
+    }
+}
